@@ -1,3 +1,4 @@
+// Program 1 -- Login Credential Program
 #include <iostream>
 using namespace std;
 
@@ -15,6 +16,24 @@ int main() {
     } else {
         cout << "Login failed";
     }
+
+    return 0;
+}
+
+// Program 2-- Alphabet case checker
+#include <iostream>
+using namespace std;
+
+int main() {
+    char ch;
+
+    cout << "Enter a letter: ";
+    cin >> ch;
+
+    if (ch >= 'A' && ch <= 'Z')
+        cout << "Uppercase";
+    else
+        cout << "Lowercase";
 
     return 0;
 }
