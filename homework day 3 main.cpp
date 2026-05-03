@@ -1,4 +1,4 @@
-// Program 1 of multiplication table
+// Program 1 -- Multiplication Table
 #include <iostream>
 using namespace std;
 
@@ -18,7 +18,7 @@ int main() {
     return 0;
 }
 
-// Program 2 of Countdown timer
+// Program 2 -- Countdown timer
 #include <iostream>
 using namespace std;
 
@@ -38,7 +38,7 @@ int main() {
     return 0;
 }
 
-// Program 3 of Glass Water Filler
+// Program 3 -- Glass Water Filler
 #include <iostream>
 using namespace std;
 
@@ -55,7 +55,7 @@ int main() {
     return 0;
 }
 
-// Program 4 of ATM Pin Retry System
+// Program 4 -- ATM Pin Retry System
 #include <iostream>
 using namespace std;
 
